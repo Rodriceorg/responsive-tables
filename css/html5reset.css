@@ -1,9 +1,6 @@
 /* html5reset.css - 01/11/2011 */
 
-article,aside,details,figcaption,figure,
-footer,header,hgroup,menu,nav,section { 
-	display: block;
-}
+
 
 nav ul {
     list-style: none;
