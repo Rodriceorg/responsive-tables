@@ -6,6 +6,8 @@
 .span_1_of_1 {
 	width: 99.9%;
 	height: 100%;
+        overflow: hidden;
+}
 }
 
 /*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
@@ -14,5 +16,8 @@
 	.span_1_of_1 {
 		width: 100%;
 		height: 100%;
-	}
+		overflow: hidden;
+		
+	}       
+
 }
